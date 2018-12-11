@@ -1,5 +1,17 @@
 # Code bar initial JavaScript project guide / starting point
 
+## Serve your files locally
+
+```bash
+npm run server
+```
+
+The above will run http-server and serve files inside `./public` folder.
+
+Open http://localhost:8080 in your browser to see them.
+
+Note: the `npm run server` command is defined in `package.json` under `scripts`
+
 ## How to's
 
 ### Initialise your own Node project
@@ -38,5 +50,5 @@ git commit -m 'first commit'
 
 ## TODOs
 
-- 
+- installing node / npm guide
 

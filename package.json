@@ -4,6 +4,7 @@
   "description": "Empty starting project",
   "main": "index.js",
   "scripts": {
+    "server": "node_modules/http-server/bin/http-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
