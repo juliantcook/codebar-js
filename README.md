@@ -1,5 +1,24 @@
 # Code bar initial JavaScript project guide / starting point
 
+## Dependencies
+
+Install Node / Npm https://nodejs.org/en/download/
+
+## Setup
+
+Clone this repo
+
+```bash
+git clone git@github.com:juliantcook/codebar-js.git
+cd codebar-js
+```
+
+Install the project dependencies
+
+```bash
+npm install
+```
+
 ## Serve your files locally
 
 ```bash
@@ -50,5 +69,4 @@ git commit -m 'first commit'
 
 ## TODOs
 
-- installing node / npm guide
 
